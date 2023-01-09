@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "axe-puppeteer": "^1.1.0",
-    "puppeteer": "^1.17.0",
+    "puppeteer": "^3.0.0",
     "system": "^0.1.0"
   }
 }
